@@ -1,0 +1,19 @@
+allumer bot
+
+pm2 start index.js
+
+
+
+
+
+stopper bot:
+
+npm stop index.js
+
+
+
+
+
+redémarrer bot:
+
+pm2 restart index.js 
